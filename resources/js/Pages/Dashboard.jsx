@@ -17,6 +17,7 @@ export default function Dashboard() {
                     <div className="overflow-hidden bg-white shadow-sm sm:rounded-lg">
                         <div className="p-6 text-gray-900">
                             You're logged in!
+                            <h1 className="text color bg-red-500">Hola mundo Equipo rojo</h1>
                         </div>
                     </div>
                 </div>
