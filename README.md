@@ -106,4 +106,7 @@ git clone https://github.com/E33-a/blue_app.git
 
 # Navega al directorio del proyecto
 cd blue_app
+
+# Arrastrar cambios
+git pull
 ```
