@@ -41,7 +41,7 @@ class AuthenticatedSessionController extends Controller
         if($user->hasAnyRole([RolesEnum::Admin, RolesEnum::Employee])){
             return Inertia::location('/admin');
         }else if($user->hasRole(RolesEnum::User)){
-            $route = route('dashboard', absolute: false);//default es true
+            $route = route('dashboard');//default es true
         }
 
         return redirect()->intended($route);
