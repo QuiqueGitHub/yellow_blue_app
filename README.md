@@ -92,7 +92,7 @@ Repositorio del proyecto de e-commerce empleando Laravel y React.
 
 - **Yellow:**
   - Scrum master:
-    - Enrique Sanchez Romero
+    - Enrique Sanchez Romero QQ
   - Rama de trabajo:
     - team/yellow
 
